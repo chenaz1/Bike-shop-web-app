@@ -1,0 +1,92 @@
+[
+    {
+        "_id": {
+          "$oid": "61c2274562ad5db26d6ce8cf"
+        },
+        "title": "מגן מנוע  - ורסיס 300",
+        "imageUrl": "https://ae01.alicdn.com/kf/H364aaba1ddc04ee78b01bfabe8d53720O.jpg?width=1000&height=1000&hash=2000",
+        "description": "מגן מנוע מברזל נגד נפילות\r\nמתאים לורסיס 300",
+        "buyUrl": "https://s.click.aliexpress.com/e/_AkMC8c",
+        "webSite": "AliExpress",
+        "category": "part",
+        "modelsList": [
+          {
+            "$oid": "623468730f1b1e2c7337702e"
+          }
+        ],
+        "tags": [],
+        "youTubeLink": ""
+      },
+      {
+        "_id": {
+          "$oid": "61c2285a99e3e4160aa813cf"
+        },
+        "title": "מגן גחון - ורסיס 300",
+        "imageUrl": "https://ae01.alicdn.com/kf/H9969d3f79c9144558f2acfabd0306bc9z.jpg",
+        "description": "מגן לחלק התחתון של האופנוע - חובה בשטח\r\nמתאים לורסיס 300",
+        "buyUrl": "https://s.click.aliexpress.com/e/_9GJHUT",
+        "webSite": "AliExpress",
+        "category": "part",
+        "modelsList": [
+          {
+            "$oid": "623468730f1b1e2c7337702e"
+          }
+        ],
+        "tags": [],
+        "youTubeLink": ""
+      },
+      {
+        "_id": {
+          "$oid": "61c23bfde5af15bd256bfa00"
+        },
+        "title": "ג'ק אמצע - ורסיס 300",
+        "imageUrl": "https://ae01.alicdn.com/kf/Hf242a2e0c27b4421b46117f816c0f409n.jpg?width=1000&height=1000&hash=2000",
+        "description": "ג'ק אמצע מעולה לטיפולים ותחזוקה או חנייה ברוחות.\r\nמתאים לורסיס 300",
+        "buyUrl": "https://s.click.aliexpress.com/e/_A9y65F",
+        "webSite": "AliExpress",
+        "category": "part",
+        "tags": [],
+        "modelsList": [
+          {
+            "$oid": "623468730f1b1e2c7337702e"
+          }
+        ],
+        "youTubeLink": ""
+      },
+      {
+        "_id": {
+          "$oid": "61c310ad5ac8029c631d8d42"
+        },
+        "title": "ארגז כלים WORKPRO 123 חלקים",
+        "imageUrl": "https://ae01.alicdn.com/kf/Hef7213e05671463998371fbcfa8d51ecq.jpg",
+        "description": "ארגז כלים של חברת WORKPRO עם 123 חלקים . מתאים לרוב הטיפולים באופנוע.\r\n",
+        "buyUrl": "https://s.click.aliexpress.com/e/_9hL33h",
+        "webSite": "AliExpress",
+        "category": "tool"
+      },
+      {
+        "_id": {
+          "$oid": "61cd7d20b80509e1f25027cc"
+        },
+        "title": "פס לד איתות ובלם",
+        "imageUrl": "https://ae01.alicdn.com/kf/HTB1tN0vafiSBuNkSnhJq6zDcpXal.jpg",
+        "description": "פס לד 29 ס\"מ עם איתות שזז ואור בלם מהבהב חזק.\r\nאדום  - פלוס\r\nשחור - מינוס \r\nצהוב - אור בלם\r\nכחול - איתות שמאל\r\nירוק - איתות ימין",
+        "buyUrl": "https://s.click.aliexpress.com/e/_97tczW",
+        "webSite": "AliExpress",
+        "category": "part",
+        "tags": [],
+        "modelsList": [
+          {
+            "$oid": "623468730f1b1e2c7337702e"
+          },
+          {
+            "$oid": "624c450a96429d61b67ec0de"
+          },
+          {
+            "$oid": "62371174748d8b38beb1274c"
+          }
+        ],
+        "youTubeLink": ""
+      }
+
+]
