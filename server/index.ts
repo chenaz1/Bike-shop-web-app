@@ -27,8 +27,6 @@ app.use((_, res, next) => {
 
 app.get(APIPath, async (req, res) => {
 
-    const data = await fetchData();
-
     // @ts-ignore
     const page: number = req.query.page || 1;
 
@@ -37,6 +35,7 @@ app.get(APIPath, async (req, res) => {
 
     if (!cache.hasOwnProperty(search)) {
 
+        const data = await fetchData();
         // cache[search] = tempData.filter((product) => (product.title.toLowerCase() + product.description.toLowerCase()).includes(search.toLowerCase()));
         cache[search] = data.filter((product) => (product.title.toLowerCase() + product.description.toLowerCase()).includes(search.toLowerCase()));
     
